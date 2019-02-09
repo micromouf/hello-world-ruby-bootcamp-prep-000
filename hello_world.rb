@@ -1,4 +1,3 @@
-puts "Hello World!"
 
 
 
